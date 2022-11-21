@@ -27,7 +27,5 @@ public class SmartTv {
       volume++;
    }
 
-   public void diminuirVolume(){
-      volume--;
-   }
+   public void diminuirVolume(){ volume--; }
 }
